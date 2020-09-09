@@ -3,7 +3,7 @@
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=19)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-### [Java version](https://github.com/amoetaz/Retrofill)
+### &#x27A1; [Java version](https://github.com/amoetaz/Retrofill)
 
 ## Prerequisites
 
